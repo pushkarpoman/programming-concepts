@@ -8,7 +8,7 @@
                             int main()
                             {
 
-                                printf ("Marvellous Infosystems Pune \n");
+                                printf ("Hello World \n");
 
                                 return 0;
                             }
