@@ -11,7 +11,6 @@ class LoopDemo
         {
             System.out.println(i);  // 4
         }
-
         System.out.println("Output by using while loop");
         i = 1;
         while(i<=5)
